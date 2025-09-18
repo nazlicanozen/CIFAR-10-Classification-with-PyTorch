@@ -8,10 +8,6 @@ This project demonstrates building, training, and evaluating Fully Connected and
 - [Project Overview](#project-overview)  
 - [Models](#models)  
 - [Training & Evaluation](#training--evaluation)  
-- [Results](#results)  
-- [Discussion](#discussion)  
-- [Usage](#usage)  
-- [References](#references)  
 
 ---
 
