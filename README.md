@@ -61,7 +61,7 @@ This project demonstrates building, training, and evaluating Fully Connected and
 
 * Output Layer: 10 neurons with Softmax activation
 
-##### Convolutional Neural Network (CNN)
+#### Convolutional Neural Network (CNN)
 
 * Conv1: 3 → 32 filters, 3x3 kernel
 
